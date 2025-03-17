@@ -1,0 +1,16 @@
+POST http://localhost:4000/search
+Content-Type: application/json
+
+{
+  "answer": ""
+}
+
+### Testing route
+GET http://localhost:4000/
+
+### convert md and pdf to text
+GET http://localhost:4000/md-to-txt
+
+
+## testing search
+GET http://localhost:4000/search

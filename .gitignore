@@ -1,0 +1,4 @@
+.env
+all/
+all-txt/
+node_modules/
